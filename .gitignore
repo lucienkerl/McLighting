@@ -10,3 +10,5 @@ lib/readme.txt
 .gcc-flags.json
 
 .vscode/*
+Arduino/.vscode/c_cpp_properties.json
+Arduino/.vscode/arduino.json
