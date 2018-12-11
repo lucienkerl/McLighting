@@ -367,7 +367,7 @@ void setup() {
   DBG_OUTPUT_PORT.println("connected...yeey :)");
   ticker.detach();
   //keep LED on
-  digitalWrite(BUILTIN_LED, LOW);
+  digitalWrite(BUILTIN_LED, HIGH);
 
 
   // ***************************************************************************
